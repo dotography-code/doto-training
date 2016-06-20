@@ -80,7 +80,6 @@ runner
 ### Gitignore by Dotography
 node_modules
 bower_components
-src/main/webapp/*
 app/dist/*
 app/dist-intermediate/*
 app/build/*
@@ -92,5 +91,3 @@ bin/
 *.db
 .keep
 
-# Allow
-!src/main/webapp/WEB-INF/
